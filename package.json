@@ -1,0 +1,21 @@
+{
+  "name": "foo-bar-qix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cucumber": "cucumber-js --config cucumber.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.4.0",
+    "@types/node": "^20.12.4",
+    "prettier": "^3.2.5",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.4.4"
+  }
+}
